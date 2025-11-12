@@ -20,5 +20,5 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/olem_diga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olem_diga" height="30" width="40" /></a>
-<a href="https://hackerearth.com/profile/olem_diga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@olem_diga" height="30" width="40" /></a>
+<a href="https://hackerrank.com/olem_diga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@olem_diga" height="30" width="40" /></a>
 </p>
