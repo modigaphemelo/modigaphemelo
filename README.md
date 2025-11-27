@@ -1,5 +1,9 @@
 <h1 align="center">Hello, Welcome to my Github Profile <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
+<p align="center">"The competent programmer is fully aware of the strictly limited size of his own skull;<br>therefore he approaches the programming task in full humility."
+</p>
+<p align="center">~ Edsger W. Dijkstra</p>
+
 <h2 align="center">⚡ My Github Stats ⚡</h2>
 
 <div align="center">
