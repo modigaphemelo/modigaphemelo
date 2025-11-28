@@ -2,7 +2,6 @@
 
 <p align="center">"The competent programmer is fully aware of the strictly limited size of his own skull;<br>therefore he approaches the programming task in full humility."
 </p>
-<p align="center">~ Edsger W. Dijkstra</p>
 
 <h2 align="center">⚡ My Github Stats ⚡</h2>
 
@@ -34,3 +33,5 @@
 <a href="https://twitter.com/olem_diga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="olem_diga" height="30" width="40" /></a>
 <a href="https://hackerrank.com/olem_diga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@olem_diga" height="30" width="40" /></a>
 </p>
+
+<p align="center">"Knowledge is a garden. If it isn’t cultivated, you can’t harvest it."</p>
