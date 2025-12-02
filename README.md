@@ -4,12 +4,9 @@
 </p>
 
 <h2 align="center">⚡ My Github Stats ⚡</h2>
+ 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modigaphemelo&layout=compact)
 
-<div align="center">
-<a href="https://github.com/modigaphemelo/github-readme-stats">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=modigaphemelo&theme=tokyonight&layout=pie&title_color=8E2DE2&text_color=fff"/>
-</a>
-</div>
 
 <h3 align="center">Languages and Tools Wishlist:</h3>
 <p align="center">
