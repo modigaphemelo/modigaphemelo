@@ -4,9 +4,6 @@
 </p>
 
 <h2 align="center">⚡ My Github Stats ⚡</h2>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=modigaphemelo&layout=compact)
-
 
 <h3 align="center">Languages and Tools Wishlist:</h3>
 <p align="center">
