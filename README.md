@@ -2,10 +2,7 @@
 
 <p align="center">"The competent programmer is fully aware of the strictly limited size of his own skull;<br>therefore he approaches the programming task in full humility."
 </p>
-
-<h2 align="center">⚡ My Github Stats ⚡</h2>
-
-<h3 align="center">Languages and Tools Wishlist:</h3>
+<h2 align="center">Languages and Tools Wishlist:</h2>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>
